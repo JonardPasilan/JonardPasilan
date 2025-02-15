@@ -5,6 +5,6 @@
   <img src="https://github.com/JonardPasilan/JonardPasilan/blob/main/download.gif?raw=true" width="300">
 </div>
 
-![GitHub Banner](https://raw.githubusercontent.com/JonardPasilan/JonardPasilan/main/banner.png)
+[GitHub Banner](https://raw.githubusercontent.com/JonardPasilan/JonardPasilan/main/banner.png)
 
 
