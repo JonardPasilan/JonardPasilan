@@ -3,7 +3,7 @@
 
 <div align="center">
   <img src="https://github.com/JonardPasilan/JonardPasilan/blob/main/download.gif?raw=true" width="300"
-      style="border: 5px solid red;">
+      style="border: 20px solid red;">
 </div>
 
 <p align="center">
