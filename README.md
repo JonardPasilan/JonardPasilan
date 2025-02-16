@@ -2,7 +2,7 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Anong+gusto+ng+bebe+ko+lima?&center=true&size=20)
 
 <div align="center">
-  <img src="https://github.com/JonardPasilan/JonardPasilan/blob/main/download.gif?raw=true" width="300">
+ 
    <img src="https://media3.giphy.com/media/PmuLLvty3SDOIaEh77/giphy.webp" width="100">
    <img src="https://media4.giphy.com/media/mBkOh02yl747xbahsT/giphy.webp" width="100">
 </div>
