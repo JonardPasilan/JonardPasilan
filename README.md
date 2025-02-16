@@ -2,8 +2,7 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+oy+ni+kaon+na+ka?&center=true&size=20)
 
 <div align="center">
-  <img src="https://github.com/JonardPasilan/JonardPasilan/blob/main/download.gif?raw=true" width="300"
-      style="border: 20px solid red;">
+  <img src="https://github.com/JonardPasilan/JonardPasilan/blob/main/download.gif?raw=true" width="300">
 </div>
 
 <p align="center">
