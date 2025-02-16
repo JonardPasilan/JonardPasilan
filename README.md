@@ -5,7 +5,7 @@
   <img src="https://github.com/JonardPasilan/JonardPasilan/blob/main/download.gif?raw=true" width="300">
 </div>
 
- <img src="https://media3.giphy.com/media/PmuLLvty3SDOIaEh77/giphy.webp" width="200">
+ <img src="https://media3.giphy.com/media/PmuLLvty3SDOIaEh77/giphy.webp" width="100">
 <p align="center">
   <a href="https://www.facebook.com/share/18f795BYcA/">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white">
