@@ -1,5 +1,5 @@
 ## Hi I'm Jonard 👋
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+oy+ni+kaon+na+ka?&center=true&size=20)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Anong+gusto+ng+bebe+ko+lima?&center=true&size=20)
 
 <div align="center">
   <img src="https://github.com/JonardPasilan/JonardPasilan/blob/main/download.gif?raw=true" width="300">
