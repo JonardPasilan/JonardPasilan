@@ -1,6 +1,5 @@
 ## Hi I'm Jonard 👋
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Anong+gusto+ng+bebe+ko+lima?&center=true&size=20)
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Anong+gusto+ng+bebe+ko+lima?;Siyempre+ikaw+lang+💖;Welcome+sa+GitHub+ko!&center=true&size=22&pause=1000&color=F700FF&width=500&height=50&duration=3000)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Anong+gusto+ng+bebe+ko+lima?;Siyempre+ikaw+lang+💖;Welcome+sa+GitHub+ko!&center=true&size=22&pause=1000&color=00FF00&width=500&height=50&duration=3000)
 <div align="center">
  
    <img src="https://media3.giphy.com/media/PmuLLvty3SDOIaEh77/giphy.webp" width="100">
